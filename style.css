@@ -1,0 +1,19 @@
+.btn-dark {background-color: grey;}
+
+.btn-dark:hover {background-color: pink;}
+
+img {width: 350px; height: 250px;
+margin: 15px;
+margin-left: 30px;
+transition: all 1s;}
+
+img:hover {transform: scale(1.1);}
+
+.embed-responsive .embed-responsive-16by9 
+{width: 400px; height: 300px;}
+
+h3 {text-align: center;
+color: grey;
+text-anchor: middle;
+margin: 30px;
+border: 10px solid black;}
